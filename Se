@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #FFFFFF;
+  }
+  
+  .content {
+    text-align: center;
+    margin-top: 50px;
+  }
+</style>
+</head>
+<body>
+  <div class="content">
+    <img src="www.imgbb.com" height="225" style="object-fit: scale-down; max-width: 100%; border-radius: 0%;" onclick="location.href = 'https://t.me/jj_8tl';">
+    <br>
+    <br>
+    <b><i>
+    <font size="6" color="#000000" style="text-decoration:none;"><code> Hacked by PALESTINE DEVILS TEAM</code></font>
+    <br>
+    <br>
+    <code style="text-decoration:none;">To hell with all the restrictions of cyberspace !!!<br>Just Want To Have Fun...</code>
+    </i></b>
+    <br><br>
+    <code style="text-decoration:none;">Telegram: @jj_8t</code>
+  </div>
+
+  <font color="#FFFFFF">
+    <script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon="{&quot;rayId&quot;:&quot;79a23b9258db1d65&quot;,&quot;version&quot;:&quot;2023.2.0&quot;,&quot;r&quot;:1,&quot;token&quot;:&quot;af76a0f2ef2c4842bd3334f3c2936a9f&quot;,&quot;si&quot;:100}" crossorigin="anonymous"></script>
+  </font>
+</body>
+</html>
